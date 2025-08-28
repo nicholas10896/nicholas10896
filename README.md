@@ -1,4 +1,9 @@
-## Hi there 👋
+### 👋Hi I'm Nicholas, a Senior Software Engineer 
+<h2>Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.</h2>
+
+<h3>ABOUT ME</h3>
+
+<h3>EXPERIENCE</h3>
 
 <!--
 **nicholas10896/nicholas10896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
