@@ -6,7 +6,7 @@
 <h3>EXPERIENCE</h3>
 
 ```javascript
-const thai = {
+const Nicholas = {
   pronouns: "He" | "Him",
   Backend & API Development: [C#, .NET Core(6/7/8), ASP.NET COre, Entity Framework Core, LINQ, RESTful APIs, gRPC, Microservices Architecture],
   Frontend Engineering: [Angular (6+), React, TypeScript, RxJS, Redux, Material UI, Bootstrap, Tailwind CSS],
